@@ -16,12 +16,12 @@ The automated test suite covers:
 
 ## Design Principles
 
-? Separation of concerns  
-? Page Object Model  
-? Reusable components  
-? Clean test methods  
-? Randomized test data  
-? Maintainable architecture  
+- Separation of concerns  
+- Page Object Model  
+- Reusable components  
+- Clean test methods  
+- Randomized test data  
+- Maintainable architecture  
 
 ---
 
