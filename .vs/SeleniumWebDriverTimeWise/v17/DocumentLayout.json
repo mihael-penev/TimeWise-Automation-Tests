@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|c:\\users\\user\\desktop\\softuniexams\\be-automation\\timewisetests\\base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|solutionrelative:timewisetests\\base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|c:\\users\\user\\desktop\\softuniexams\\be-automation\\timewisetests\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|solutionrelative:timewisetests\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|c:\\users\\user\\desktop\\softuniexams\\be-automation\\timewisetests\\tests\\tasktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|solutionrelative:timewisetests\\tests\\tasktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|c:\\users\\user\\desktop\\softuniexams\\be-automation\\timewisetests\\utils\\randomdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|solutionrelative:timewisetests\\utils\\randomdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|c:\\users\\user\\desktop\\softuniexams\\be-automation\\timewisetests\\pages\\createtaskpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|solutionrelative:timewisetests\\pages\\createtaskpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|c:\\users\\user\\desktop\\softuniexams\\be-automation\\timewisetests\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|solutionrelative:timewisetests\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|c:\\users\\user\\desktop\\softuniexams\\be-automation\\timewisetests\\pages\\todopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52F1971-CA3D-4ED7-9782-6DAA320172EA}|TimeWiseTests\\TimeWiseTests.csproj|solutionrelative:timewisetests\\pages\\todopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\README.md",
+              "RelativeDocumentMoniker": "TimeWiseTests\\README.md",
+              "ToolTip": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\README.md",
+              "RelativeToolTip": "TimeWiseTests\\README.md",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-14T09:50:55.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\Tests\\TaskTests.cs",
+              "RelativeDocumentMoniker": "TimeWiseTests\\Tests\\TaskTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\Tests\\TaskTests.cs",
+              "RelativeToolTip": "TimeWiseTests\\Tests\\TaskTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T09:22:51.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\Base\\BaseTest.cs",
+              "RelativeDocumentMoniker": "TimeWiseTests\\Base\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\Base\\BaseTest.cs",
+              "RelativeToolTip": "TimeWiseTests\\Base\\BaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T09:30:22.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandomDataGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\Utils\\RandomDataGenerator.cs",
+              "RelativeDocumentMoniker": "TimeWiseTests\\Utils\\RandomDataGenerator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\Utils\\RandomDataGenerator.cs",
+              "RelativeToolTip": "TimeWiseTests\\Utils\\RandomDataGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T09:29:49.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateTaskPage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\Pages\\CreateTaskPage.cs",
+              "RelativeDocumentMoniker": "TimeWiseTests\\Pages\\CreateTaskPage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\Pages\\CreateTaskPage.cs",
+              "RelativeToolTip": "TimeWiseTests\\Pages\\CreateTaskPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T09:28:51.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoPage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\Pages\\ToDoPage.cs",
+              "RelativeDocumentMoniker": "TimeWiseTests\\Pages\\ToDoPage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\Pages\\ToDoPage.cs",
+              "RelativeToolTip": "TimeWiseTests\\Pages\\ToDoPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T09:28:41.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "TimeWiseTests\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\softuniexams\\BE-Automation\\TimeWiseTests\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "TimeWiseTests\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T09:28:27.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
